@@ -1,0 +1,1 @@
+This is the source code of an Open-Source Covert Timing Channel that the University of Roma Tre (Signal Processing for Telecommunications and Economics group) developed together with the University of Kassel (Applied Information Security group). The OSCTC can be used for education and security purposes.
